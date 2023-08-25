@@ -19,5 +19,4 @@
 </div>
 
 ##
-  
- ![Snake animation](https://github.com/CBGMDias/CBGMDias/blob/output/github-contribution-grid-snake.svg)
+
