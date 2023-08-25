@@ -20,4 +20,4 @@
 
 ##
   
- ![Snake animation](https://github.com/IgorEFPedrol/IgorEFPedrol/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/CBGMDias/CBGMDias/blob/output/github-contribution-grid-snake.svg)
