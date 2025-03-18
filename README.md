@@ -1,5 +1,6 @@
-### Olá! Me chamo Cristhian! <br>Técnico em Informática pela Etec Dr. Demétrio Azevedo Júnior<br>
-### Atualmente Cursando Ciência da Computação no Centro Universitário Filadélfia - UniFil
+### Olá! Me chamo Cristhian! <br>Técnico em Informática pela Etec Dr. Demétrio Azevedo Júnior
+
+### Atualmente no 5º semestre cursando Ciência da Computação na FMU, Liberdade - São Paulo SP <br>Estudei até o 4º no Centro Universitário Filadélfia, UniFil - Londrina PR
 --------------------------------
 <div align="center" style="display: inline_block" width="100%">
   <a href="https://github.com/CBGMDias">
