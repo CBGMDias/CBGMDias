@@ -1,6 +1,8 @@
 ### Olá! Me chamo Cristhian! <br>Técnico em Informática pela Etec Dr. Demétrio Azevedo Júnior
 
-### Atualmente no 5º semestre cursando Ciência da Computação na FMU, Liberdade - São Paulo SP <br>Estudei até o 4º no Centro Universitário Filadélfia, UniFil - Londrina PR
+### Atualmente no 5º semestre cursando Ciência da Computação na FMU, Liberdade - São Paulo SP <br>Cursado até o 4º semestre no Centro Universitário Filadélfia, UniFil - Londrina PR
+
+### Trabalhando como PJ em T.I no Centro Alpha Médico, Alphaville Industrial, Barueri - SP
 --------------------------------
 <div align="center" style="display: inline_block" width="100%">
   <a href="https://github.com/CBGMDias">
