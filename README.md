@@ -2,7 +2,7 @@
 
 ### Atualmente no 5º semestre cursando Ciência da Computação na FMU, Liberdade - São Paulo SP <br>Cursado até o 4º semestre no Centro Universitário Filadélfia, UniFil - Londrina PR
 
-### Trabalhando como PJ em T.I no Centro Alpha Médico, Alphaville Industrial, Barueri - SP
+### Prestando serviços para [Alpha Centro Médico](https://alphacentromedico.com.br) e [Next Fiber](https://nextfiber.com.br)
 --------------------------------
 <div align="center" style="display: inline_block" width="100%">
   <a href="https://github.com/CBGMDias">
