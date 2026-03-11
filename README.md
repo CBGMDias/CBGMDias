@@ -1,13 +1,10 @@
 ### Olá! Me chamo Cristhian! <br>Técnico em Informática pela Etec Dr. Demétrio Azevedo Júnior
 
-### Atualmente no 5º semestre cursando Ciência da Computação na FMU, Liberdade - São Paulo SP <br>Cursado até o 4º semestre no Centro Universitário Filadélfia, UniFil - Londrina PR
+### Atualmente no último ano cursando Engenharia de Software na UniFil, Polo São Paulo - SP <br>Cursado até o 4º semestre no Centro Universitário Filadélfia, UniFil - Polo Londrina PR
 
-### Prestando serviços para [Alpha Centro Médico](https://alphacentromedico.com.br) e [Next Fiber](https://nextfiber.com.br)
+### Atualmente prestando soluções para [Alpha Centro Médico](https://alphacentromedico.com.br) e [Next Fiber](https://nextfiber.com.br)
 --------------------------------
 <div align="center" style="display: inline_block" width="100%">
-  <a href="https://github.com/CBGMDias">
-  <img align="center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=CBGMDias&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  </a>
   <a href="https://github.com/CBGMDias">
   <img align="center" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBGMDias&layout=compact&langs_count=7&theme=react"/>
   </a>
@@ -34,7 +31,4 @@
   <img align="center" alt="n8n" height="30" width="40" src="https://cdn.simpleicons.org/n8n/F05A2B">
 </div>
 
-
-
-##
 
